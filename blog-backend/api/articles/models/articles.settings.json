@@ -53,6 +53,10 @@
       "plugin": "users-permissions",
       "model": "user",
       "via": "articles"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
     }
   }
 }
