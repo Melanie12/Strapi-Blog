@@ -1,19 +1,15 @@
 # Strapi-Blog
 
 ## Requirements
-### Website
-[ ] Blog posts
-[ ] About me page
+### Single type
 [ ] Footer
 [ ] Navigation
 
-### Blog posts
-[ ] Title
-[ ] Header image
-[ ] Blog post
-[ ] Categories
-[ ] Tags
 
+### Collection types
+[ ] Articles
+[ ] Categories
+[ ]Pages 
 
 ## Ressources
 
